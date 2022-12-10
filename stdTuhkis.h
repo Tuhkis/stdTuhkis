@@ -28,7 +28,6 @@ Documentation:
 
 // Includes
 #include <stdint.h>
-#include <time.h>
 #include <stdlib.h>
 
 // Types
