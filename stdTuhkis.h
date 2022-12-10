@@ -32,7 +32,7 @@ Documentation:
 #include <stdlib.h>
 
 // Types
-typedef int_fast8_t i8;
+typedef int_fast8_t  i8;
 typedef int_fast16_t i16;
 typedef int_fast32_t i32;
 typedef int_fast64_t i64;
